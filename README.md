@@ -1,15 +1,77 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=senior+frontend+engineer;still+compiling..." alt="typing banner"/>
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/morteza-hosseinzadeh-82774a134/) 
+<br/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=morteza-front-end&theme=dark&hide_border=false&include_all_commits=false&count_private=false) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=morteza-front-end&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=morteza-front-end&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```bash
+$ git log --oneline --author="morteza hosseinzadeh" --reverse
 
----
-[![](https://visitcount.itsvg.in/api?id=morteza-front-end&icon=5&color=8)](https://visitcount.itsvg.in)
+a1b2c3d  (2013–2015)  feat: enrolled in civil engineering
+                       # wrong branch, correct instinct
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+e4f5g6h  (2020–2021)  feat: first commit into frontend
+                       # vue.js, javascript es6+ — no idea what "reactive" meant yet
+
+h7i8j9k  (2021–2024)  refactor: feature-based architecture
+                       # nuxt2 -> nuxt3 migration, -50% load time
+                       # learned pinia the hard way
+
+k1l2m3n  (2024–2025)  feat: remote work, canada + dubai
+                       # modular vue3 architecture across timezones
+
+n4o5p6q  (2025–...)   feat: senior frontend engineer
+                       # own the architecture, not just the components
+
+
+$ git status
+On branch main
+Changes not staged for commit:
+  modified:   computer-science-fundamentals.md
+  modified:   english-fluency.md
+  modified:   what-"senior"-actually-means.md
+
+no commits yet on these. still working.
+```
+
+<br/>
+
+## stack
+
+```ts
+const stack = {
+  languages: ["typescript", "javascript (es6+)"],
+  frameworks: ["vue 3", "nuxt 3/4", "react", "next.js"],
+  state: ["pinia", "vuex", "tanstack query"],
+  styling: ["tailwind css", "sass"],
+  testing: ["playwright", "cypress"],
+  tooling: ["vite", "git", "docker"],
+  currentlyLearning: ["data structures & algorithms", "english (b1 target)"],
+} as const;
+```
+
+<br/>
+
+<details>
+<summary>a small thing, if you're curious</summary>
+<br/>
+
+```
+c3RpbGwgYnVpbGRpbmcgdGhlIHBhcnRzIG5vYm9keSByZXZpZXdz
+```
+
+<sub>base64. not important. just here.</sub>
+
+</details>
+
+<br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/morteza-hosseinzadeh-8277a134">
+    <img src="https://img.shields.io/badge/-linkedin-0A0A0A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morteza-front-end&theme=dark&hide_border=true&background=0D1117" alt="streak stats"/>
+</p>
