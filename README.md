@@ -1,10 +1,20 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=senior+frontend+engineer;still+compiling..." alt="typing banner"/>
-</h1>
+<h1 align="center">Morteza Hosseinzadeh</h1>
+<h3 align="center">Frontend Software Engineer | Vue, Nuxt, React, TypeScript | Architecture & State Management</h3>
 
 <br/>
 
-```bash
+## stack
+
+```ts
+const stack = {
+  languages: ["typescript", "javascript (es6+)"],
+  frameworks: ["vue 3", "nuxt 3/4", "react", "next.js"],
+  state: ["pinia", "zustand", "tanstack query"],
+  styling: ["tailwind css", "sass"],
+  testing: ["playwright", "cypress"],
+  tooling: ["vite", "git", "docker"]
+} as const;
+
 $ git log --oneline --author="morteza hosseinzadeh" --reverse
 
 a1b2c3d  (2013–2015)  feat: enrolled in civil engineering
@@ -23,55 +33,4 @@ k1l2m3n  (2024–2025)  feat: remote work, canada + dubai
 n4o5p6q  (2025–...)   feat: senior frontend engineer
                        # own the architecture, not just the components
 
-
-$ git status
-On branch main
-Changes not staged for commit:
-  modified:   computer-science-fundamentals.md
-  modified:   english-fluency.md
-  modified:   what-"senior"-actually-means.md
-
-no commits yet on these. still working.
-```
-
-<br/>
-
-## stack
-
-```ts
-const stack = {
-  languages: ["typescript", "javascript (es6+)"],
-  frameworks: ["vue 3", "nuxt 3/4", "react", "next.js"],
-  state: ["pinia", "vuex", "tanstack query"],
-  styling: ["tailwind css", "sass"],
-  testing: ["playwright", "cypress"],
-  tooling: ["vite", "git", "docker"],
-  currentlyLearning: ["data structures & algorithms", "english (b1 target)"],
-} as const;
-```
-
-<br/>
-
-<details>
-<summary>a small thing, if you're curious</summary>
-<br/>
-
-```
 c3RpbGwgYnVpbGRpbmcgdGhlIHBhcnRzIG5vYm9keSByZXZpZXdz
-```
-
-<sub>base64. not important. just here.</sub>
-
-</details>
-
-<br/>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mortezahosseinzadeh">
-    <img src="https://img.shields.io/badge/-linkedin-0A0A0A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morteza-front-end&theme=dark&hide_border=true&background=0D1117" alt="streak stats"/>
-</p>
