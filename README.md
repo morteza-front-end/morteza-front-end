@@ -67,7 +67,7 @@ c3RpbGwgYnVpbGRpbmcgdGhlIHBhcnRzIG5vYm9keSByZXZpZXdz
 <br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/morteza-hosseinzadeh-8277a134">
+  <a href="https://linkedin.com/in/mortezahosseinzadeh">
     <img src="https://img.shields.io/badge/-linkedin-0A0A0A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
